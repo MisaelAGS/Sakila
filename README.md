@@ -25,7 +25,7 @@ Este repositório tem como objetivo registrar uma série de consultas SQL realiz
    - "Quero saber quais são os atores que aparecem mais vezes no nosso catálogo de filmes. Mostre os nomes dos atores e a contagem de filmes em que cada um aparece, ordenados do mais frequente para o menos frequente."
 
 2. **Filmes Disponíveis por Categoria**
-   - "Quais são os filmes disponíveis em cada categoria? Exiba o nome do filme e a categoria em que ele se enquadra. Separe por categoria e ordene por nome do filme."
+   - "Quais são os filmes disponíveis em cada categoria? Exiba o nome do filme e a categoria em que se enquadra. Separe por categoria e ordene por nome do filme."
 
 3. **Clientes Mais Frequentes**
    - "Quem são nossos clientes mais ativos? Traga uma lista com os nomes dos clientes e a quantidade de locações que cada um fez, em ordem decrescente de locações."
@@ -62,3 +62,51 @@ Este repositório tem como objetivo registrar uma série de consultas SQL realiz
 
 14. **Pagamentos e Aluguéis Cancelados**
     - "Existe algum caso em que foi registrado um pagamento, mas o aluguel foi cancelado? Verifique se temos pagamentos sem registros de aluguel correspondentes."
+
+15. **Filmes com Classificação Média mais Alta**
+    - "Quais filmes têm a maior média de classificação pelos clientes? Liste o título do filme, a classificação média, e a quantidade de classificações que recebeu. Ordene pela média mais alta."
+
+16. **Filmes Mais Lucrativos por Categoria**
+    - "Quais filmes geraram mais receita em cada categoria? Liste a categoria, o título do filme e o total de receita gerada, ordenando pelo valor mais alto em cada categoria."
+
+17. **Clientes Sem Transações no Último Ano**
+    - "Quero saber quais clientes não fizeram nenhuma locação no último ano. Liste o nome completo do cliente, cidade e país."
+
+18. **Análise de Locação em Horários de Pico**
+    - "Quais são os horários em que os clientes mais alugam filmes? Gere uma tabela com a hora do dia e o número de locações feitas em cada hora, ordenando pelas horas mais movimentadas."
+
+19. **Proporção de Aluguéis por Categoria**
+    - "Qual a proporção de aluguéis para cada categoria em relação ao total de aluguéis? Liste a categoria e a porcentagem correspondente."
+
+20. **Tempo Médio de Devolução por Categoria**
+    - "Quero saber o tempo médio de devolução dos filmes por categoria. Liste a categoria e o tempo médio de devolução em dias, ordenando do menor para o maior."
+
+21. **Receita Gerada por País**
+    - "Quanto cada país contribuiu para a receita total? Liste os países e o total arrecadado em cada um, ordenando pelo maior valor."
+
+22. **Categorias com Menor Popularidade**
+    - "Quais categorias têm a menor quantidade de locações? Liste as categorias e a quantidade total de aluguéis, ordenando da menor para a maior."
+
+23. **Receita Média por Cliente**
+    - "Qual é a receita média gerada por cliente? Traga o nome do cliente e o valor médio pago, ordenado da maior para a menor receita média."
+
+24. **Tendência de Locação ao Longo do Ano**
+    - "Quais meses têm o maior volume de locações? Mostre o número de locações feitas em cada mês ao longo de todos os anos disponíveis."
+
+25. **Filmes Alugados por Faixa Etária**
+    - "Qual a distribuição de locações por faixa etária dos clientes? Separe as faixas em intervalos de 10 anos (ex.: 10-19, 20-29, etc.). Liste a faixa etária e o total de locações."
+
+26. **Top 5 Funcionários Mais Ativos**
+    - "Quais funcionários processaram mais locações? Liste os cinco funcionários mais ativos, mostrando o nome completo, número de locações processadas e a loja em que trabalham."
+
+27. **Taxa de Renovação de Locação**
+    - "Qual a taxa de renovação de locação? Quero saber a proporção de locações que foram renovadas em relação ao total de locações, por mês e ano."
+
+28. **Clientes por Gênero**
+    - "Quais são os clientes mais ativos por gênero? Mostre o gênero, o número de locações e o cliente com mais locações em cada gênero."
+
+29. **Filmes Mais Alugados por Ano**
+    - "Quais filmes foram os mais alugados em cada ano? Liste o ano, o título do filme e o número de vezes que foi alugado."
+
+30. **Análise de Receita por Loja**
+    - "Qual loja gerou mais receita? Traga uma lista com a loja, a cidade e o total de receita gerada, ordenando pela maior receita."
